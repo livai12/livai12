@@ -5,7 +5,7 @@
 
 <!-- Typing Dynamic Tagline -->
 <a href="https://github.com/livai12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+%40+ITS;AI+%26+Machine+Learning+Engineer;Sports+Kinematics+%26+Tactical+Analytics;Cybersecurity+Operations+(SIEM%2FSOAR)+%26+DevSecOps;Rank+%231+%40+Bar%C3%A7a+Innovation+Hub+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+%40+ITS;AI+%26+Machine+Learning+Engineer;Data+Science+%26+High-Velocity+Analytics;Cybersecurity+Operations+%26+Cloud+Systems;Software+Engineering+%26+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <br>
@@ -17,7 +17,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/naufal-ardhana"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://github.com/livai12?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore_All-8b5cf6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Projects" /></a>
+<a href="https://github.com/livai12?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore_All-8b5cf6?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -33,49 +33,16 @@ identity:
   education: Information Technology Undergraduate @ Institut Teknologi Sepuluh Nopember (ITS)
   specializations:
     - Artificial Intelligence & Machine Learning
-    - Sports Data Science & High-Velocity Kinematics
-    - Cybersecurity (SOC, SIEM, SOAR, Network Security)
+    - Data Science & Algorithmic Problem Solving
+    - Cybersecurity, Network Forensics & SIEM/SOAR
     - Cloud Infrastructure, Linux Systems & DevSecOps
-  current_focus: Building deterministic AI ensembles & scalable distributed systems
+  focus: Designing robust architectures, high-performance computing & intelligent software
 ```
 
 - **Undergraduate Student in Information Technology** at **Institut Teknologi Sepuluh Nopember (ITS)**.
-- **AI & Sports Analytics:** Creator of the *Bio-Kinematic Multi-Solver Ensemble* for ball possession classification — currently holding **Rank #1** (`spellF1 = 0.4516`) on the official **Barça Innovation Hub × Metrica Sports** competition leaderboard.
-- **Cybersecurity & Systems:** Experienced in SOC operations, SIEM/SOAR pipeline development, network traffic forensics, and Linux kernel hardening.
-- **Infrastructure & Engineering:** Skilled in configuration automation (Ansible, Docker) and heuristic meta-optimization algorithms (VNS, BFO).
-
----
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Barça Innovation Hub — More Than a Hack 2027</h4>
-      <p align="center">
-        <a href="https://github.com/livai12/more-than-a-hack-2027-possession">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=livai12&repo=more-than-a-hack-2027-possession&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899" width="100%" alt="Barca Hackathon Repo Pin" />
-        </a>
-      </p>
-      <ul>
-        <li><b>Rank #1 Leaderboard Performance:</b> <code>spellF1: 0.4516</code>, beating baseline by +85.6%.</li>
-        <li><b>Architecture:</b> Aerodynamic kinematics + DeepMind TacticAI collective flocking + Semi-Markov HMM Viterbi decoding.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">Kerajaan Awan 3D: Cloud Task Scheduling</h4>
-      <p align="center">
-        <a href="https://github.com/livai12/kerajaan-awan-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=livai12&repo=kerajaan-awan-3d&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899" width="100%" alt="Kerajaan Awan Repo Pin" />
-        </a>
-      </p>
-      <ul>
-        <li><b>Optimization Comparison:</b> Variable Neighborhood Search (VNS) vs Bacterial Foraging (BFO).</li>
-        <li><b>Visualization:</b> Interactive real-time 3D cloud cluster workload scheduling.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Artificial Intelligence & Data Science:** Interested in machine learning architectures, statistical modeling, algorithmic optimization, and computational data pipelines.
+- **Systems & Cybersecurity:** Exploring system-level programming, infrastructure automation, network security monitoring, and secure software development.
+- **Engineering Ethos:** Committed to clean, deterministic code, reproducible research, and scalable computing solutions.
 
 ---
 
@@ -122,18 +89,16 @@ identity:
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=livai12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899&text_color=94a3b8" width="100%" alt="Naufal's GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=livai12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899&text_color=94a3b8" width="100%" alt="GitHub Overall Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=livai12&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ec4899&currStreakNum=38bdf8&sideNums=f1f5f9&dates=94a3b8" width="100%" alt="Naufal's Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=livai12&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=ec4899&currStreakNum=38bdf8&sideNums=f1f5f9&dates=94a3b8" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livai12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=livai12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=ec4899&point=38bdf8" width="100%" alt="Activity Graph" />
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=livai12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
