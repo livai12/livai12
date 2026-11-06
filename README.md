@@ -5,7 +5,7 @@
 
 <!-- Typing Dynamic Tagline -->
 <a href="https://github.com/livai12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+%40+ITS;AI+%26+Deep+Learning+Engineer;Sports+Kinematics+%26+Tactical+Analytics;Cybersecurity+Operations+(SIEM%2FSOAR)+%26+DevSecOps;Rank+%231+%40+Bar%C3%A7a+Innovation+Hub+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+%40+ITS;AI+%26+Machine+Learning+Engineer;Sports+Kinematics+%26+Tactical+Analytics;Cybersecurity+Operations+(SIEM%2FSOAR)+%26+DevSecOps;Rank+%231+%40+Bar%C3%A7a+Innovation+Hub+Hackathon" alt="Typing SVG" />
 </a>
 
 <br>
@@ -25,13 +25,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 identity:
   name: Naufal Ardhana (livai12)
   education: Information Technology Undergraduate @ Institut Teknologi Sepuluh Nopember (ITS)
-  interests:
+  specializations:
     - Artificial Intelligence & Machine Learning
     - Sports Data Science & High-Velocity Kinematics
     - Cybersecurity (SOC, SIEM, SOAR, Network Security)
@@ -39,19 +39,19 @@ identity:
   current_focus: Building deterministic AI ensembles & scalable distributed systems
 ```
 
-- 🎓 **Undergraduate Student in Information Technology** at **Institut Teknologi Sepuluh Nopember (ITS)**.
-- 🧠 **AI & Sports Analytics:** Creator of the *Bio-Kinematic Multi-Solver Ensemble* for ball possession classification — currently holding **Rank #1** (`spellF1 = 0.4516`) on the official **Barça Innovation Hub × Metrica Sports** competition leaderboard.
-- 🛡️ **Cybersecurity & Systems:** Experienced in SOC operations, SIEM/SOAR pipeline development, network traffic forensics, and Linux kernel hardening.
-- ⚙️ **Infrastructure & Engineering:** Skilled in configuration automation (Ansible, Docker) and heuristic meta-optimization algorithms (VNS, BFO).
+- **Undergraduate Student in Information Technology** at **Institut Teknologi Sepuluh Nopember (ITS)**.
+- **AI & Sports Analytics:** Creator of the *Bio-Kinematic Multi-Solver Ensemble* for ball possession classification — currently holding **Rank #1** (`spellF1 = 0.4516`) on the official **Barça Innovation Hub × Metrica Sports** competition leaderboard.
+- **Cybersecurity & Systems:** Experienced in SOC operations, SIEM/SOAR pipeline development, network traffic forensics, and Linux kernel hardening.
+- **Infrastructure & Engineering:** Skilled in configuration automation (Ansible, Docker) and heuristic meta-optimization algorithms (VNS, BFO).
 
 ---
 
-### 🏆 Featured Project Spotlight
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">⚽ Barça Innovation Hub — More Than a Hack 2027</h4>
+      <h4 align="center">Barça Innovation Hub — More Than a Hack 2027</h4>
       <p align="center">
         <a href="https://github.com/livai12/more-than-a-hack-2027-possession">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=livai12&repo=more-than-a-hack-2027-possession&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899" width="100%" alt="Barca Hackathon Repo Pin" />
@@ -63,7 +63,7 @@ identity:
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">☁️ Kerajaan Awan 3D: Cloud Task Scheduling</h4>
+      <h4 align="center">Kerajaan Awan 3D: Cloud Task Scheduling</h4>
       <p align="center">
         <a href="https://github.com/livai12/kerajaan-awan-3d">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=livai12&repo=kerajaan-awan-3d&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899" width="100%" alt="Kerajaan Awan Repo Pin" />
@@ -79,32 +79,32 @@ identity:
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Technical Arsenal
 
 <div align="center">
 
-<p align="left"><b>💻 Programming Languages:</b></p>
+<p align="left"><b>Programming Languages</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,ts,js,bash,go,r,html,css" alt="Languages" />
   </a>
 </p>
 
-<p align="left"><b>🧠 Machine Learning, Data Science & Analytics:</b></p>
+<p align="left"><b>Machine Learning &amp; Data Science</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,numpy,pandas,opencv" alt="AI and ML" />
   </a>
 </p>
 
-<p align="left"><b>🛡️ DevOps, Cloud & Cybersecurity Systems:</b></p>
+<p align="left"><b>Cloud, Systems &amp; Security</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,ansible,git,github,nginx,postman" alt="DevOps and Security" />
   </a>
 </p>
 
-<p align="left"><b>🗄️ Databases & Web Technologies:</b></p>
+<p align="left"><b>Databases &amp; Web Frameworks</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,react,nextjs,tailwind" alt="Web and DB" />
@@ -115,7 +115,7 @@ identity:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Analytics &amp; Metrics
 
 <div align="center">
 
@@ -143,8 +143,8 @@ identity:
 ---
 
 <div align="center">
-  <img src="assets/footer_wave.svg" width="100%" alt="Footer Wave" />
+  <img src="assets/footer_wave.svg" width="100%" alt="Divider Line" />
   <p align="center">
-    <sub>Crafted with passion, caffeine, and precision • © <b>Naufal Ardhana</b></sub>
+    <sub>Naufal Ardhana &bull; Information Technology @ Institut Teknologi Sepuluh Nopember</sub>
   </p>
 </div>
